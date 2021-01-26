@@ -1,3 +1,11 @@
+# Readme file formatting
+
+Примеры форматирования файла `readme.md` <br />
+
+Описание стандарта можно найти по этой ссылке [Документация](https://github.github.com/gfm/ "Документация")
+
+Похожий проект на гитхабе [GnuriaN](https://github.com/GnuriaN/format-README/blob/master/README.md "GnuriaN")
+
 # Разделительная черта
 ___
 ***
